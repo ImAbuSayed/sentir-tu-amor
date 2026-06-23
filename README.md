@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sentir tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-amor/) |
+| **Get License** | [Obtain a Music License for Sentir tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la disco está llena pero solo te veo a ti
+> Esa mirada salvaje, you know you're meant for me
+> Siento la vibra subiendo, the rhythm is taking control
+> Quiero sentir tu amor, baby, deep in my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
