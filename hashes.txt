@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu amor
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu amor** (sentir-tu-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:03:21.855238 | `v1` | `5136e39710e0fea322ced975c02b4201466145f35f23f723e43682b82423dcc0` | `107d365c44d10451f14d3d6670171f6d2f5444a1dc1d31c5c90031558fb044b5` | `2026-06-24_sentir-tu-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
